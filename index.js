@@ -1,4 +1,4 @@
-const kata = 'HALLO'; //silahkan di ganti dengan kata yang anda inginkan
+const kata = 'hailah uleaa '; //silahkan di ganti dengan kata yang anda inginkan
 const katmut = 'Aku ada hadiah untuk kamu !!'; //silahkan di ganti dengan kata yang anda inginkan
 
 
